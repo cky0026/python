@@ -1,0 +1,7 @@
+print("请将秒数换成分钟+秒的形式")
+print("请您输入秒数（整数):")
+n = int(input())
+a = int(n % 60)
+b = int((n - a) / 60)
+str = "%d 秒 = %d 分钟 %d 秒" % (n, b, a)
+print(str)

@@ -1,0 +1,21 @@
+<name>Mary Brown</name>
+1998.06.01  13031107444  Mary.Brown@hotmail.com 
+Room 301, Building 3, 220 Handan Road
+<name>John Wilson</name> 
+18919819461 
+John_W@qq.com sdd  
+John_2@sina.com 
+1804273611@fudan.edu.cn
+@Room 1101, Building 5, No.450, Nanjing Road
+<name>Adam Davis</name> 
+2000.01.01
+310110200001010056x
+17100345361 
+1-Adam@me.com 
+2-Adam@sina.com 
+Room 1101, No. 5, Lane 22, Siping Road
+<name>Seven Carl</name> 
+2010.01.01
+310110200001010056x
+seven@google.com 
+carl@sina.com 
